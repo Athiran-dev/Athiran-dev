@@ -1,3 +1,8 @@
+<!-- ============================================= -->
+<!--  IMAGE SLOT 1 — HEADER BANNER                  -->
+<!--  Use: Image 5 (Sunrise, lamp off, real desk)   -->
+<!--  Filename suggestion: assets/header.png        -->
+<!-- ============================================= -->
 
 <img src="Header1.png" width="100%" alt="Header Banner" />
 
@@ -31,6 +36,11 @@ const developer = {
 </td>
 <td width="55%" valign="top">
 
+<!-- ============================================= -->
+<!--  IMAGE SLOT 2 — HERO IMAGE (beside About Me)   -->
+<!--  Use: Image 6 (Evening, red sky, coding)       -->
+<!--  Filename suggestion: assets/hero.png          -->
+<!-- ============================================= -->
 
 <img src="HeroSection.png" width="100%" alt="Working" />
 
@@ -78,6 +88,10 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 </td>
 <td width="50%">
 
+### 🏗️ Amvex
+*Coming soon.* A long-term vision, still in the blueprint stage.
+
+`Concept` `In Progress`
 
 </td>
 </tr>
@@ -88,7 +102,7 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,solidity,git,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,solidity,git,docker,figma" />
 </p>
 
 <br/>
@@ -110,21 +124,44 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Athiran-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athiran-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Athiran-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athiran-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athiran-dev&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Athiran-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
 </p>
 
 <br/>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Athiran-dev/Athiran-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Athiran-dev/Athiran-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Athiran-dev/Athiran-dev/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</p>
+
+<br/>
+
+<!-- ============================================= -->
+<!--  IMAGE SLOT 3 — FOOTER                          -->
+<!--  Use: Image 2 (Night, shooting stars,           -->
+<!--  headphones, quote baked into image)            -->
+<!--  Filename suggestion: assets/footer.png         -->
+<!-- ============================================= -->
 
 <div align="center">
-<img src="footerNight2.png" width="100%" alt="Footer" />
+<img src="footerNightMusic.png" width="100%" alt="Footer" />
 
 **Thanks for visiting ⭐**
 
