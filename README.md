@@ -124,7 +124,7 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 
 ## 📊 GitHub Stats
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Athiran-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
@@ -133,7 +133,7 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athiran-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
 </td>
 </tr>
-</table>
+</table> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Athiran-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
@@ -161,7 +161,7 @@ On-chain certificate verification system built on Algorand — tamper-proof, ins
 <!-- ============================================= -->
 
 <div align="center">
-<img src="footerNightMusic.png" width="100%" alt="Footer" />
+<img src="footerNight2.png" width="100%" alt="Footer" />
 
 **Thanks for visiting ⭐**
 
